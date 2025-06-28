@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharen Rajenthiran. Welcome to my profile!</h1>
 <h3 align="center">I'm very interested in the following subjects: Physics, Mathematics, Programming, and Learning. I hope to serve the world in any way while also making use of my skills and interests.</h3>
 
-- 🔭 I’m currently working on **Quantum Computing and/or physics-related apps.**
+- 🔭 I’m currently working as **AI Software Developer @ Imagine AI Sdn Bhd.**
 
 - 🌱 I’m currently learning **Full-stack development and also physics.**
 
