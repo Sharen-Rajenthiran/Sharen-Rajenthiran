@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sharen Rajenthiran. Welcome to my profile!</h1>
-<h3 align="center">I'm very interested in the following subjects: Physics, Mathematics, Programming, and Learning. I hope to serve the world in any way while also making use of my skills and interests.</h3>
-
-- 🔭 I’m currently working as **AI Software Developer @ Imagine AI Sdn Bhd.**
-
-- 🌱 I’m currently learning **Full-stack development and also physics.**
-
-- ⚡ Fun fact: **I used to participate in competitive chess. Not much these days though 😅**
-
 
 ###
 
@@ -17,7 +8,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharen-rajenthiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharen-rajenthiran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alex4555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alex4555" height="30" width="40" /></a>
